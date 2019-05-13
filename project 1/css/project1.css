@@ -1,0 +1,45 @@
+header {
+  width:90%;
+  background-color: #66FAD7 ;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  padding:10px;
+  overflow:hidden;
+}
+
+body {
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+hgroup {
+  widows: 30px;
+  float:left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+h1{
+ color: aliceblue
+}
+
+h2{
+ color:whitesmoke
+}
+
+
+nav { /*move top nav to the right*/
+  width:20%;
+  float:right;
+
+}
+
+ul { /*to remove bullet on top nav ul*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display:inline-block;
+}
