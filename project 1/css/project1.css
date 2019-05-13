@@ -30,11 +30,10 @@ h2{
  color:whitesmoke
 }
 
-
 nav { /*move top nav to the right*/
   width:20%;
   float:right;
-
+  font-size: 1.3em;
 }
 
 ul { /*to remove bullet on top nav ul*/
@@ -43,3 +42,5 @@ ul { /*to remove bullet on top nav ul*/
   padding: 0;
   display:inline-block;
 }
+
+
